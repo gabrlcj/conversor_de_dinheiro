@@ -11,4 +11,5 @@ Um pequeno conversor de dinheiro feito na imersãoDev.
 </ul>
 
 <h2>Link para o codigo:</h2>
-<a href:"https://codepen.io/gabrlcj/pen/QWdWGXR">Feito no Codepen.io</a>
+<a href="https://codepen.io/gabrlcj/pen/QWdWGXR">Conversor_de_Dinheiro</a>
+<p> Feito no codepen.io</p>
