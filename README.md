@@ -1,7 +1,9 @@
 # Conversor_De_Dinheiro
 Um pequeno conversor de dinheiro feito na imersãoDev.
+<br><br>
+*Podendo realizar a conversão de real para dólar, euro e libra.*
 
-![image](https://user-images.githubusercontent.com/79853847/112165244-5543df00-8bcd-11eb-8f13-129c7d667531.png)
+![image](https://user-images.githubusercontent.com/79853847/115905112-04c5d880-a43c-11eb-9d36-e739a2d8a31f.png)
 
 <h1>Linguagens Utilizadas:</h1>
 <ul>
