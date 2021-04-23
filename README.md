@@ -1,8 +1,8 @@
 <h1 align="center">Conversor De Dinheiro 💰</h1>
 
-Um pequeno conversor de dinheiro feito na imersãoDev.
+<p align="center">Um pequeno conversor de dinheiro feito na imersãoDev.
 <br><br>
-*Podendo realizar a conversão de real para dólar, euro e libra.*
+  <i>Podendo realizar a conversão de real para dólar, euro e libra.</i></p>
 
 ![image](https://user-images.githubusercontent.com/79853847/115905112-04c5d880-a43c-11eb-9d36-e739a2d8a31f.png)
 
