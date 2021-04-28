@@ -6,12 +6,11 @@
 
 ![image](https://user-images.githubusercontent.com/79853847/115905112-04c5d880-a43c-11eb-9d36-e739a2d8a31f.png)
 
-<h1>Linguagens Utilizadas:</h1>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
+<h2>🏗️ Linguagens utilizadas: 🏗️</h2>
+
+  - [JavaScript](https://www.javascript.com/)
+  - [CSS](https://www.w3schools.com/css/)
+  - [HTML](https://www.w3schools.com/html/)
 
 <h2>Link para o codigo:</h2>
 <a href="https://codepen.io/gabrlcj/pen/QWdWGXR">Conversor_de_Dinheiro</a>
